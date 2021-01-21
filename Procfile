@@ -1,1 +1,1 @@
-Procfile.tx
+web: gunicorn app:app
